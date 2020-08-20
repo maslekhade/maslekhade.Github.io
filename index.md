@@ -5,12 +5,16 @@
 <!--You can use the [editor on GitHub](https://github.com/maslekhade/maslekhade.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.-->
 
 
-Когда мы будем комитить наш код, GitHub Pages будет обновляться на странице нашего сайта из содержимого наших файлов. [Jekyll](https://jekyllrb.com/)
+<!--Когда мы будем комитить наш код,--> GitHub Pages будет обновляться на странице нашего сайта из содержимого наших файлов. [Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Markdown - это простой и легкий синтаксис для стилизации нашей страницы.
+<!--Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
+* Пример текста
+ * прмеррррр.
+ + тест 
+ 
 ```markdown
 Syntax highlighted code block
 
