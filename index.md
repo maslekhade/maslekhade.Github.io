@@ -10,9 +10,6 @@
 
 Markdown - это простой и легкий синтаксис для стилизации нашей страницы.
 <!--Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
-* Пример текста
- * прмеррррр.
- + тест 
  
 ```markdown
 Syntax highlighted code block
