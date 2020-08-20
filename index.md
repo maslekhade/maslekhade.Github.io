@@ -1,8 +1,10 @@
 ## Добро пожаловать на наш сайт на GitHub
 
-Данный сайт предназначен для тестирования работы GitHUB, и сюда будут добавляться различные
-```You can use the [editor on GitHub](https://github.com/maslekhade/maslekhade.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-```
+Данный сайт предназначен для тестирования работы GitHUB, и сюда будут добавляться различные изменения нашего кода или новые фишки.
+
+<!--You can use the [editor on GitHub](https://github.com/maslekhade/maslekhade.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.-->
+
+
 Когда мы будем комитить наш код, GitHub Pages будет обновляться на странице нашего сайта из содержимого наших файлов. [Jekyll](https://jekyllrb.com/)
 
 ### Markdown
